@@ -2,7 +2,7 @@
 
 > Work in progress :hourglass:
 
-Fejix a GUI framework that is focused on doing things right.
+Fejix is a GUI framework that is focused on doing things right.
 
 It has the following values:
 * **Being accessible to many programming languages.** Fejix values the ability to be *easily* built into a library with a *C interface*. By my choice, it is written in C99. However, C interface is not all. GUIs are very hierarchical, and their behavior is far too complex to be specified in C. Thus, Fejix uses Lua to specify GUI and a code generator that would do all the hard work for you.
