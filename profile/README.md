@@ -5,4 +5,4 @@ As it turned out, creating GUI toolkits is an extremely complex and nontrivial t
 # What has been done so far
 
 * I came up with a great idea of a good window nanagement library.
-  At the moment, I am trying to implement it in the `fejixwm` repo. 
+  At the moment, I am trying to implement it in the `fejix` repo. 
